@@ -1,0 +1,38 @@
+body{
+background: url(/images/watch-10.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+
+
+}#Title1{
+text-align: left;
+font-size: 26px;
+margin-top: 60px;
+margin-left: 30PX;
+text-decoration: solid;
+font-weight: bold;
+color: white;
+
+
+
+
+}#Title2{
+    margin-top: 20px;
+text-align: left;
+font-size: 20px;
+
+margin-left: 30PX;
+text-decoration: solid;
+font-weight: bold;
+color: white;
+
+}#nav1{
+background-color: rgb(180 180 180 / 0%);
+
+}#unorderlis1{
+background-color:rgb(180 180 180 / 0%) ;
+
+
+}
